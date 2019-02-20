@@ -1,3 +1,4 @@
 name: Connor Butterfield
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+permalink: /CV
